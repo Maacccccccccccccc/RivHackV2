@@ -1,2 +1,1 @@
-# RivHackV2
-Rivals script OP
+@macs0lo
